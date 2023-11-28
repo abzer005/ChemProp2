@@ -5,6 +5,6 @@ Chemprop2 scores the correlation between two similar features and tells if they 
 
 ## Notebooks:
 Kindly run the ChemProp2 script with the latest date. <br>
-The Jupyter Notebook can be directly executed here: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Functional-Metabolomics-Lab/ChemProp2/blob/main)
+The R Jupyter Notebook can be directly executed here: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Functional-Metabolomics-Lab/ChemProp2/blob/main)
 
 The app is under construction. [Run the app](https://chemprop2.streamlit.app/)
