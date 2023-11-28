@@ -12,7 +12,7 @@ page_setup()
 
 # Introduction Section
 st.markdown("""
-# Welcome to the Ocean Metabolome Portal
+# Welcome to the ChemProp2 web portal.
 Please select your method for data input below.
 """)
 
