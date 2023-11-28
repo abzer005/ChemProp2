@@ -8,7 +8,7 @@ st.set_page_config(page_title="ChemProp2")
 # Page Header
 st.title("ChemProp2")
 
-st.image("streamlit/assets/ChemProp2.png", use_column_width=True)
+st.image("assets/ChemProp2.png", use_column_width=True)
 
 # Under Construction Notice
 st.subheader("🚧 Under Construction 🚧")
