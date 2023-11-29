@@ -25,7 +25,7 @@ def page_setup():
     # streamlit configs
     st.set_page_config(
         page_title="ChemProp2",
-        page_icon="assets/ChemProp2.png",
+        page_icon="https://github.com/abzer005/ChemProp2/blob/main/streamlit/assets/ChemProp2.png",
         layout="wide",
         initial_sidebar_state="auto",
         menu_items=None,
@@ -49,7 +49,7 @@ def page_setup():
                 key="image_format",
             )
         v_space(1)
-        st.image("assets/ChemProp2.png", use_column_width=True)
+        st.image("https://github.com/abzer005/ChemProp2/blob/main/streamlit/assets/ChemProp2.png", use_column_width=True)
 
 
 def v_space(n, col=None):
